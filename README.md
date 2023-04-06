@@ -1,44 +1,3 @@
-# Sujet
-
-## Stack Techno :
-
-* Maven
-* Java
-* Spring
-* Junit 5
-* SonarCloud
-* React
-* github actions
-* Docker
-
-*Sur le VPS de la classe :*
-* docker-compose
-* Base relationnelle (postgres)
-
-
-## Critères d'évaluations :
-
-* Toutes les fonctionnalités sont présentes
-* Les contraintes techniques sont respectées
-* Le code est propre et les responsabilités sont correctement distribuées
-* La couverture de test du code java dépasse 50%
-* L'application est déployée via le docker-compose partagé de la classe.
-* L'application est polie et prête à être lancée.
-
-
-## Si aucun projet ne vous convient ou vous avez une idée :
-
-à discuter avec l'enseignant, la stack tech doit toutefois être respectée
-
-## Creation du projet : 
-
-Les repository sont a créer en publique (pour l'analyse SonarCloud) dans l'organization
-
-par example pour le projet pipo : 
-* pipo-api
-* pipo-web
-
-
 # CodeShort
 #### Application de tips et d’anecdotes de codes
 
@@ -77,3 +36,43 @@ L’application permet d’apprendre plein d’informations et divers annecdotes
 * PostgreSQL
 * SpringBoot
 * Angular
+
+# Basé sur un projet universitaire :
+
+## Stack Techno :
+
+* Maven
+* Java
+* Spring
+* Junit 5
+* SonarCloud
+* React
+* github actions
+* Docker
+
+*Sur le VPS de la classe :*
+* docker-compose
+* Base relationnelle (postgres)
+
+
+## Critères d'évaluations :
+
+* Toutes les fonctionnalités sont présentes
+* Les contraintes techniques sont respectées
+* Le code est propre et les responsabilités sont correctement distribuées
+* La couverture de test du code java dépasse 50%
+* L'application est déployée via le docker-compose partagé de la classe.
+* L'application est polie et prête à être lancée.
+
+
+## Si aucun projet ne vous convient ou vous avez une idée :
+
+à discuter avec l'enseignant, la stack tech doit toutefois être respectée
+
+## Creation du projet : 
+
+Les repository sont a créer en publique (pour l'analyse SonarCloud) dans l'organization
+
+par example pour le projet pipo : 
+* pipo-api
+* pipo-web
